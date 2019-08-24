@@ -15,7 +15,7 @@ To run the project, open the command-line at the project's root directory, and r
   * Method: **POST**
   * Content-Type: **application/json**
   * Body: 
-  * { "name": "Jignesh Khatri", "email": "test@test.com", "contactNumber": "1234567890", "password": "123456" }
+    * { "name": "Jignesh Khatri", "email": "test@test.com", "contactNumber": "1234567890", "password": "123456" }
 * _http://localhost:8080/demoAPI/user_
   * To retrive all data
   * Method: **GET**
